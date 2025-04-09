@@ -12,4 +12,4 @@
 Oh cool, formatting!<br>
 log<sub>2</sub>(*x*<sup>2</sup>) = 2log<sub>2</sub>(*x*)
 
-
+![One silly dude.](42457662.jpg)
